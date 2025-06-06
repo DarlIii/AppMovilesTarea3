@@ -1,0 +1,7 @@
+{
+  "name": "tareaiii",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
